@@ -1,4 +1,4 @@
-Salary Prediction with Machine Learning
+# Salary Prediction with Machine Learning
 
 This project predicts employee salaries based on different features using machine learning models. The goal is to analyze employee data, preprocess it, and apply regression techniques to build an accurate salary prediction system.
 
